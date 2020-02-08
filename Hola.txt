@@ -1,2 +1,11 @@
 Estudiando los comandos de git
 
+
+Nuevos cambios en el archibo hola
+
+sabado 08 de febrero de 2020
+
+Esatamos probando estos comandos
+
+Para subirlkos arrepositorio en linea
+
